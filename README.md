@@ -1,9 +1,6 @@
 # Edge Impulse Data Collector
 Este programa permite subir los datos de un giroscopio GY-521 MPU6050 conectado a un módulo DevKit ESP32 a una frecuencia de 50 Hz. Estos datos se utilizan para el entrenamiento en la nube de un modelo de Machine Learning en el servicio EdgeImpulse. La utilidad utilizada para cargar los datos es Edge Impulse data forwarder v1.5.0.
 
-## Descripción
-El programa se encarga de leer los datos del giroscopio GY-521 MPU6050 conectado al módulo DevKit ESP32. Estos datos se capturan a una frecuencia de 50 Hz y se envían a Edge Impulse utilizando la utilidad data forwarder v1.5.0. Los datos se utilizan para entrenar un modelo de Machine Learning en la plataforma de Edge Impulse.
-
 ## Configuración
 Antes de utilizar el programa, asegúrate de seguir estos pasos de configuración:
 <ol>
